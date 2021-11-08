@@ -5,7 +5,7 @@
 <h3 align="center">Sou um menino de 9 anos apaixonado por programação.</h3>
 
 
-![image](https://user-images.githubusercontent.com/93051043/140668599-1fd0d228-fa1e-42e2-a851-e55a70768f52.png)
+<img style="border-radius: 100px;"  src="https://yt3.ggpht.com/ytc/AKedOLQYhbluVD452Fp5G6pwXnVuHxz-qOAwyivDRcaB=s88-c-k-c0x00ffffff-no-rj">
 
 <input>
 
