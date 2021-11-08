@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Arthur Lara</h1>
 <h3 align="center">Sou um menino de 9 anos apaixonado por programação.</h3>
 
-https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif
+<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif">
 
 ![image](https://user-images.githubusercontent.com/93051043/140668599-1fd0d228-fa1e-42e2-a851-e55a70768f52.png)
 
