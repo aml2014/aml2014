@@ -2,12 +2,7 @@
 <h3 align="center">Sou um menino de 9 anos apaixonado por programação.</h3>
 
 ![image](https://user-images.githubusercontent.com/93051043/140668599-1fd0d228-fa1e-42e2-a851-e55a70768f52.png)
-<style>
-    img{
-        width: 50px;
-        height: 50px;
-    }
-</style>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aml2014&label=Profile%20views&color=0e75b6&style=flat" alt="aml2014" /> </p>
