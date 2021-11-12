@@ -1,4 +1,4 @@
-<h1 align="center">olá 👋,Meu nome é Arthur Lara</h1>
+<h1 align="center">oi 👋,Meu nome é Arthur Lara</h1>
 
 <img width="100%" height="6px" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" >
 
