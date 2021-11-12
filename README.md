@@ -7,7 +7,6 @@
 
 <img style="border-radius: 100px;"  src="https://yt3.ggpht.com/ytc/AKedOLQYhbluVD452Fp5G6pwXnVuHxz-qOAwyivDRcaB=s88-c-k-c0x00ffffff-no-rj">
 
-<input>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aml2014&label=Profile%20views&color=0e75b6&style=flat" alt="aml2014" /> </p>
 
