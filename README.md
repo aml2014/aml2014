@@ -1,18 +1,18 @@
-<h1 align="center">olá 👋,Meu nome é Arthur Lara</h1>
+<h1 align="center">Oi 👋,Meu nome é Arthur</h1>
 
-<img width="100%" height="6px" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" >
+<img width="100%" height="3px" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" >
 
 <h3 align="center">Sou um menino de 9 anos apaixonado por programação.</h3>
 
 
-<img style="border-radius: 100px;"  src="https://yt3.ggpht.com/ytc/AKedOLQYhbluVD452Fp5G6pwXnVuHxz-qOAwyivDRcaB=s88-c-k-c0x00ffffff-no-rj">
+<img src="https://yt3.ggpht.com/ytc/AKedOLQYhbluVD452Fp5G6pwXnVuHxz-qOAwyivDRcaB=s88-c-k-c0x00ffffff-no-rj">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aml2014&label=Profile%20views&color=0e75b6&style=flat" alt="aml2014" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aml2014" alt="aml2014" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="aml2014" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
